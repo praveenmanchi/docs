@@ -18,11 +18,23 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "hello@DesignBoard.club"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/praveenmanchi"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/praveenmanchi"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/praveenmanchi"
     }
   ],
   "topbarCtaButton": {
-    "name": "Protiflio",
+    "name": "Portfolio",
     "url": "https://praveenmanchi.art"
   },
   "tabs": [
@@ -31,27 +43,10 @@
       "url": "api-reference"
     }
   ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction", "quickstart", "development", "Hello", "gjjjjj", "3557"]
     },
     {
       "group": "Essentials",
@@ -71,8 +66,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "github": "https://github.com/praveenmanchi",
+    "linkedin": "https://www.linkedin.com/praveenmanchi"
   }
 }
