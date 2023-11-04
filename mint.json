@@ -3,7 +3,8 @@
   "name": "DesignBoard",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://designboard.club"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -17,18 +18,18 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "hello@DesignBoard.club"
+      "name": "Drop Feedback",
+      "url": "https://p7i6f7zcpar.typeform.com/to/o2WbaXpx"
     }
   ],
   "topbarCtaButton": {
-    "name": "Portfolio",
+    "name": "Crafted by Praveen manchi",
     "url": "https://praveenmanchi.art"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Useful Links",
+      "url": "Useful Links"
     },
     {
       "name": "UX Designer",
@@ -43,13 +44,16 @@
       "url": "him-designer"
     }
   ],
+  "primaryTab": {
+    "name": "Get Started"
+  },
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "UX & UI ",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development",
+        "User interface & User Experince",
+        "UX Research",
+        "Colour in UI",
         "UI work",
         "heuristic evaluation",
         "Lean UX",
@@ -65,22 +69,9 @@
         "essentials/settings",
         "essentials/navigation"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
+  
   "footerSocials": {
     "github": "https://github.com/praveenmanchi",
     "linkedin": "https://www.linkedin.com/praveenmanchi"
