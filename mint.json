@@ -19,18 +19,6 @@
     {
       "name": "Support",
       "url": "hello@DesignBoard.club"
-    },
-    {
-      "name": "GitHub",
-      "url": "https://github.com/praveenmanchi"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/praveenmanchi"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/praveenmanchi"
     }
   ],
   "topbarCtaButton": {
@@ -41,6 +29,18 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "UX Designer",
+      "url": "ux-designer"
+    },
+    {
+      "name": "UI Designer",
+      "url": "ui-designer"
+    },
+    {
+      "name": "HIM Designer",
+      "url": "him-designer"
     }
   ],
   "navigation": [
@@ -50,9 +50,10 @@
         "introduction",
         "quickstart",
         "development",
-        "Hello",
-        "gjjjjj",
-        "3557"
+        "UI work",
+        "heuristic evaluation",
+        "Lean UX",
+        "Design Thinking"
       ]
     },
     {
