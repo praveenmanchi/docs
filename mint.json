@@ -61,13 +61,13 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Needfull",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation"
+        "Needfull/markdown",
+        "Needfull/code",
+        "Needfull/images",
+        "Needfull/settings",
+        "Needfull/navigation"
       ]
     }
   ],
